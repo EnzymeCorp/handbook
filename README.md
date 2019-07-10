@@ -19,9 +19,11 @@ Too often good product ideas fail to commercialize due to what seems to be an ov
 Enzyme's mission is to help life science companies commercialize faster without compromising patient care. We foster a culture of quality through modern software tools and expert guidance.  
 
 Our goal is to reduce the time and cost life science companies spend during the product development life cycle. Through our product, education, and support, we help companies commercialize faster. 
-Enzyme At A Glance
-Founded: 2017
-Founders: Jacob Graham, Jared Seehafer
-Principal Investors: Y Combinator, Rock Health, Refactor Capital, DC VC (Data Collective), SOMA Capital
-Current Offerings: Enzyme QMS, Quality as a Service, Regulatory Services
+
+#### Enzyme At A Glance
+
+- Founded: 2017
+- Founders: Jacob Graham, Jared Seehafer
+- Principal Investors: Y Combinator, Rock Health, Refactor Capital, DC VC (Data Collective), SOMA Capital
+- Current Offerings: Enzyme QMS, Quality as a Service, Regulatory Services
 

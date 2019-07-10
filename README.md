@@ -71,5 +71,20 @@ There are exceptions. Extended, synchronous collaborations sometimes are needed.
 
 Teams that collaborate heavily should plan for more overlap. Async should bias for deep  (aka Deep Work) concentration time, improving productivity.
 
+#### Enzyme IRL
+
+Twice a year (summer and winter) we conduct a team offsite. This is an opportunity
+for employees to socialize and better get to know one another,
+to step away from daily tasks to discuss company goals, and
+strengthen teams and the company as a whole. 
+
+#### Communication
+We use Slack as our main tool for communication. During business hours, all employees should be available via Slack. 
+
+##### AFK (away from keyboard)
+Life happens, just notify your team on Slack that you won’t be available and for approximately how long.
+
+
+
 
 

@@ -124,7 +124,7 @@ We use Intercom to manage customer leads on our website and handle questions in-
 
 #### Compensation & Benefits 
 Enzyme provides 
-- competitive base compensation (distributed on the 15th & last day of the month)
+- competitive base compensation (distributed on the 15th & last business day of the month)
 - equity compensation
 - medical, dental and vision insurance -- 100% premium paid
 - life insurance

@@ -122,13 +122,14 @@ We use Webflow to manage and update content for our website.
 We use Intercom to manage customer leads on our website and handle questions in-app. Intercom also hosts our support center. 
 
 
-#### Benefits 
+#### Compensation & Benefits 
 Enzyme provides 
-- Competitive base compensation (base + equity)
+- competitive base compensation (distributed on the 15th & last business day of the month)
+- equity compensation
 - medical, dental and vision insurance -- 100% premium paid
 - life insurance
 - 401k
-- Paid Time off  
+- paid time off  
 
 #### Perks
 - standing Desks - In-office we have adjustable desks so suit your ergonomic needs.

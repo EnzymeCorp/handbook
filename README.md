@@ -90,35 +90,35 @@ Life happens, just notify your team on Slack that you won’t be available and f
 #### Tools we Use
 To successfully build our product, there are several tools we use on a daily basis.
 
-##### Github
+- ClickUp    
+Goals & work streams (other than engineering) are tracked in ClickUp to log and track projects for Marketing, Customer Success, Sales, Consulting, and Quality.
+
+ - Github    
 Github hosts our repository and our code. Read more HERE. We have daily calls where we review the Github board and the issues the developers are working on. 
 
-##### ClickUp
-Non-developer work is documented and tracked in ClickUp. We use ClickUp to log and track projects for Marketing, Customer Success, Sales, Consulting, and Quality. 
-
-##### Slack
+- Slack    
 We use slack daily to communicate within the team and some of our customers. In support of Remote-First, async culture, please use appropriately scoped Slack channels whenever possible.
 
-Even conversations amongst two-people, in the office, might take place over Slack to record it for posterity and broadcast to remote teams.
+**Even conversations amongst two-people, in the office, might take place over Slack to record it for posterity and broadcast to remote teams.**
 
 Updates for structured projects are entered into ClickUp, and when appropriate that project will auto-post to a Slack channel.
 
-##### Zoom
+- Zoom    
 Zoom is the video conferencing tool we use both internally and with our customers. Make sure to have it set up on your computer prior to client calls.
 
-##### G Suite
+- G Suite   
 We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive. 
 
-##### Microsoft Office Suite
+- Microsoft Office Suite    
 We use Office products such as Word and PowerPoint for certain internal purposes and with certain customers.
 
-##### Figma
+- Figma       
 Figma is the design tool we use to create mocks for our product.
 
-##### Webflow
-We use Webflow to manage and update content for our website.
+- Webflow     
+We use Webflow as content management system (CMS)
 
-##### Intercom
+- Intercom    
 We use Intercom to manage customer leads on our website and handle questions in-app. Intercom also hosts our support center. 
 
 

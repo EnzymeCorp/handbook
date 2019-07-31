@@ -51,10 +51,14 @@ Employees local to the SF Bay Area have the option to work from HQ on a daily ba
 
 For the 100% remote team members, they can work from anywhere during business hours as long as they are available online for calls. 
 
+#### Performance Mangement (aka Objectives & Keys Results, OKRs)
+* Each quarter the team will develop OKRs and lock them in the [Goals Feature of ClickUp](https://app.clickup.com/1246867/goals/)
+* Updates will be made continously, asynchronously. Work streams can be associated to goals when appropriate.
+* Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged.
+
 
 #### Our Office
-
-##### Enzyme HQ (headquarters): 360 Langton St, Suite 100, San Francisco, CA. 
+* Enzyme HQ (headquarters): 360 Langton St, Suite 100, San Francisco, CA. 
 
 ##### Focused Work and Asynchronous Communication
 - We support being in “in the zone” ([deep focused work](https://www.youtube.com/watch?v=ZD7dXfdDPfg))
@@ -71,20 +75,18 @@ There are exceptions. Extended, synchronous collaborations sometimes are needed.
 
 Teams that collaborate heavily should plan for more overlap. Async should bias for deep  (aka Deep Work) concentration time, improving productivity.
 
+* Communication Norms    
+We use Slack as our main tool for communication. During business hours, all employees should be available via Slack. 
+
+* AFK (away from keyboard)    
+Life happens, just notify your team on Slack that you won’t be available and for approximately how long.
+
 #### Enzyme IRL
 
 Twice a year (summer and winter) we conduct a team offsite. This is an opportunity
 for employees to socialize and better get to know one another,
 to step away from daily tasks to discuss company goals, and
 strengthen teams and the company as a whole. 
-
-#### Communication
-We use Slack as our main tool for communication. During business hours, all employees should be available via Slack. 
-
-##### AFK (away from keyboard)
-Life happens, just notify your team on Slack that you won’t be available and for approximately how long.
-
-
 
 
 #### Tools we Use

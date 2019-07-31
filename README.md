@@ -53,6 +53,7 @@ For the 100% remote team members, they can work from anywhere during business ho
 
 #### Performance Mangement (aka Objectives & Keys Results, OKRs)
 * Each quarter the team will develop OKRs and lock them in the [Goals Feature of ClickUp](https://app.clickup.com/1246867/goals/)
+    * [HOWTO guide](https://www.youtube.com/watch?v=XplWt1eKPwE)
 * Updates will be made continously, asynchronously. Work streams can be associated to goals when appropriate.
 * Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged.
 

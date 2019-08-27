@@ -142,3 +142,7 @@ Enzyme provides
 - commuter benefits
 - personal gear stipend (~$200)
 
+#### Standard Holidays
+- US Labor Day
+- US July 4th
+

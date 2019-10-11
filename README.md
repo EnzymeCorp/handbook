@@ -131,7 +131,7 @@ Enzyme provides
 - equity compensation
 - medical, dental and vision insurance -- 100% premium paid
 - life insurance
-- 401k
+- 401k (contributions made every pay period)
 - paid time off  
 
 #### Perks
@@ -143,6 +143,11 @@ Enzyme provides
 - personal gear stipend (~$200)
 
 #### Standard Holidays
+- New Years Day
+- Memorial Day
 - US Labor Day
 - US July 4th
+- Thanksgiving
+- Christmas
+
 

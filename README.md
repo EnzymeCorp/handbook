@@ -132,22 +132,37 @@ Enzyme provides
 - medical, dental and vision insurance -- 100% premium paid
 - life insurance
 - 401k (contributions made every pay period)
-- paid time off  
+- unlimited mental & physical health days
+- (minimum) 2 week vacation
 
 #### Perks
-- standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
 - team offsite
-- catered lunches, snacks & beverages
 - flexible work hours, locations
-- commuter benefits
 - personal gear stipend (~$200)
+- Employees commuting to Enzyme offices
+    - catered lunches, snacks & beverages
+    - standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
+    - commuter benefits
+
 
 #### Standard Holidays
-- New Years Day
-- Memorial Day
-- US Labor Day
-- US July 4th
-- Thanksgiving
-- Christmas
+* New Year's Day (January 1).
+* President's day (aka: Washington's Birthday) (Third Monday in February).
+* Memorial Day (Last Monday in May).
+* Independence Day (July 4).
+* Labor Day (First Monday in September).
+* Veterans Day (November 11).
+* Thanksgiving Day (Fourth Thursday in November).
+    * Day After Thanksgiving
+* Christmas Day (December 25).
+
+
+##### On-call Period
+* The roughly two weeks spanning Christmas & New years
+    * 2019: Mon Dec 23rd onward, returning Mon Jan 6th.
+    * 2020: Mon Dec 21st onward, returning Mon Jan 4th.
+* During this time employees are encouraged to be home or at a rejuvenating destination.
+    * Employees will maintain access Slack, laptop & WIFI in case of emergency.
+    * Key resources in Site Reliability Engineering (SRE) & Customer Support may work full hours.
 
 

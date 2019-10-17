@@ -97,7 +97,7 @@ To successfully build our product, there are several tools we use on a daily bas
 Goals & work streams (other than engineering) are tracked in ClickUp to log and track projects for Marketing, Customer Success, Sales, Consulting, and Quality.
 
  - Github    
-Github hosts our repository and our code. Read more HERE. We have daily calls where we review the Github board and the issues the developers are working on. 
+Github hosts our repository and our code. We have daily calls where we review the Github board and the issues the developers are working on. 
 
 - Slack    
 We use slack daily to communicate within the team and some of our customers. In support of Remote-First, async culture, please use appropriately scoped Slack channels whenever possible.

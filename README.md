@@ -57,6 +57,18 @@ For the 100% remote team members, they can work from anywhere during business ho
 * Updates will be made continously, asynchronously. Work streams can be associated to goals when appropriate.
 * Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged.
 
+##### Individaul Performance Review
+   The following is a proposed template for weekly performance review in 1:1:
+
+- Review context:
+    - Personal context
+    - Key business updates
+ - Performance versus OKRs
+ - Feedback about organizational systems & processes (not shared in retro)
+ - Performance feedback for manage; start/stop/continue
+ - Career planning; near-term & long-term
+
+
 
 #### Our Office
 * Enzyme HQ (headquarters): 360 Langton St, Suite 100, San Francisco, CA. 

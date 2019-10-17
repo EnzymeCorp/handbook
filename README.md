@@ -58,8 +58,9 @@ For the 100% remote team members, they can work from anywhere during business ho
 * Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged.
 
 ##### Individaul Performance Review
-   The following is a proposed template for weekly performance review in 1:1:
-
+   As per best practices and quality system procedures Enzyme continuously assess competence.
+   This is the suggested template for weekly performance review in 1:1:
+   
 - Review context:
     - Personal context
     - Key business updates
@@ -67,8 +68,8 @@ For the 100% remote team members, they can work from anywhere during business ho
  - Feedback about organizational systems & processes (not shared in retro)
  - Performance feedback for manage; start/stop/continue
  - Career planning; near-term & long-term
-
-
+ 
+ This will be summarized in an annual summary performance review that ensures continued competence.
 
 #### Our Office
 * Enzyme HQ (headquarters): 360 Langton St, Suite 100, San Francisco, CA. 

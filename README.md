@@ -97,11 +97,9 @@ Life happens, just notify your team on Slack that you won’t be available and f
 
 #### Enzyme IRL
 
-Twice a year (summer and winter) we conduct a team offsite. This is an opportunity
-for employees to socialize and better get to know one another,
-to step away from daily tasks to discuss company goals, and
-strengthen teams and the company as a whole. 
+Once in the summer and once in winter we all gather to build relationships and share key updates. 
 
+This is an important compliment to oure remote-fist, distributed structure.
 
 #### Tools we Use
 To successfully build our product, there are several tools we use on a daily basis.
@@ -145,11 +143,11 @@ Enzyme provides
 - medical, dental and vision insurance -- 100% premium paid for employee and 50% premium pad for dependents
 - life insurance
 - 401k (contributions made every pay period)
-- unlimited mental & physical health days
-- (minimum) 2 week vacation
+- mental & physical health days (unlimited)
+- 2 week vacation (minimum)
 
 #### Perks
-- team offsite
+- Enzyme IRL offsite location & non-work activities
 - flexible work hours, locations
 - personal gear stipend (~$200)
 - Employees commuting to Enzyme offices

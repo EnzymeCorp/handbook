@@ -172,7 +172,7 @@ Enzyme provides
 
 ##### On-call Period
 * The roughly two weeks spanning Christmas & New years
-    * 2019: Mon Dec 23rd onward, returning Mon Jan 6th.
+    * 2019: Mon Dec 23rd onward, returning Thur Jan 2nd
     * 2020: Mon Dec 21st onward, returning Mon Jan 4th.
 * During this time employees are encouraged to be home or at a rejuvenating destination.
     * Employees will maintain access Slack, laptop & WIFI in case of emergency.

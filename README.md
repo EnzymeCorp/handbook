@@ -99,7 +99,7 @@ Life happens, just notify your team on Slack that you won’t be available and f
 
 Once in the summer and once in winter we all gather to build relationships and share key updates. 
 
-This is an important compliment to oure remote-fist, distributed structure.
+This is an important compliment to our remote-first, distributed structure.
 
 #### Tools we Use
 To successfully build our product, there are several tools we use on a daily basis.

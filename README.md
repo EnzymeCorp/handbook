@@ -129,7 +129,7 @@ We use Intercom to manage customer leads on our website and handle questions in-
 Enzyme provides 
 - competitive base compensation (distributed on the 15th & last business day of the month)
 - equity compensation
-- medical, dental and vision insurance -- 100% premium paid
+- medical, dental and vision insurance -- 100% premium paid for employee and 50% premium pad for dependents
 - life insurance
 - 401k (contributions made every pay period)
 - paid time off  

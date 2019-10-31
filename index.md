@@ -108,14 +108,14 @@ Goals & work streams (other than engineering) are tracked in ClickUp to log and 
 Github hosts our repository and our code. We have daily calls where we review the Github board and the issues the developers are working on. 
 
 - Slack    
-We use slack daily to communicate within the team and some of our customers. In support of Remote-First, async culture, please use appropriately scoped Slack channels whenever possible.
+Used most commontly within the team and some of our customers. In support of Remote-First, async culture, please be mindful to use appropriately scoped channels.
 
 **Even conversations amongst two-people, in the office, might take place over Slack to record it for posterity and broadcast to remote teams.**
 
 Updates for structured projects are entered into ClickUp, and when appropriate that project will auto-post to a Slack channel.
 
 - Zoom    
-Zoom is the video conferencing tool we use both internally and with our customers. Make sure to have it set up on your computer prior to client calls.
+Video conferencing for internal & with customers. Make sure to have it set up on your computer prior to client calls. For team meetings please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20)
 
 - G Suite   
 We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive. 
@@ -152,7 +152,6 @@ Enzyme provides
     - standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
     - commuter benefits
 
-
 #### Standard Holidays
 * New Year's Day (January 1).
 * President's day (aka: Washington's Birthday) (Third Monday in February).
@@ -164,7 +163,6 @@ Enzyme provides
     * Day After Thanksgiving
 * Christmas Day (December 25).
 
-
 ##### On-call Period
 * The roughly two weeks spanning Christmas & New years
     * 2019: Mon Dec 23rd onward, returning Thur Jan 2nd
@@ -172,5 +170,3 @@ Enzyme provides
 * During this time employees are encouraged to be home or at a rejuvenating destination.
     * Employees will maintain access Slack, laptop & WIFI in case of emergency.
     * Key resources in Site Reliability Engineering (SRE) & Customer Support may work full hours.
-
-

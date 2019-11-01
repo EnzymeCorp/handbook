@@ -1,6 +1,3 @@
-#### Using this Handbook
-This handbook provides an overview of our company, what drives us, and how we operate. After reading this handbook, reach out to your manager to clarify any questions you may have. We have done our best to give you a glimpse into Enzyme; let us know if you feel something is missing. 
-
 #### What Matters to Us
 Enzyme was started to help companies get cutting edge technology to patients faster. We want to be open and transparent with our customers, and we help educate them so they can deliver the best product.
 
@@ -57,6 +54,19 @@ For the 100% remote team members, they can work from anywhere during business ho
 * Updates will be made continously, asynchronously. Work streams can be associated to goals when appropriate.
 * Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged.
 
+##### Individaul Performance Review
+   As per best practices and quality system procedures Enzyme continuously assess competence.
+   This is the suggested template for weekly performance review in 1:1:
+   
+- Review context:
+    - Personal context
+    - Key business updates
+ - Performance versus OKRs
+ - Feedback about organizational systems & processes (not shared in retro)
+ - Performance feedback for manage; start/stop/continue
+ - Career planning; near-term & long-term
+ 
+ This will be summarized in an annual summary performance review that ensures continued competence.
 
 #### Our Office
 * Enzyme HQ (headquarters): 360 Langton St, Suite 100, San Francisco, CA. 
@@ -84,11 +94,9 @@ Life happens, just notify your team on Slack that you won’t be available and f
 
 #### Enzyme IRL
 
-Twice a year (summer and winter) we conduct a team offsite. This is an opportunity
-for employees to socialize and better get to know one another,
-to step away from daily tasks to discuss company goals, and
-strengthen teams and the company as a whole. 
+Once in the summer and once in winter we all gather to build relationships and share key updates. 
 
+This is an important compliment to our remote-first, distributed structure.
 
 #### Tools we Use
 To successfully build our product, there are several tools we use on a daily basis.
@@ -100,14 +108,14 @@ Goals & work streams (other than engineering) are tracked in ClickUp to log and 
 Github hosts our repository and our code. We have daily calls where we review the Github board and the issues the developers are working on. 
 
 - Slack    
-We use slack daily to communicate within the team and some of our customers. In support of Remote-First, async culture, please use appropriately scoped Slack channels whenever possible.
+Used most commontly within the team and some of our customers. In support of Remote-First, async culture, please be mindful to use appropriately scoped channels.
 
 **Even conversations amongst two-people, in the office, might take place over Slack to record it for posterity and broadcast to remote teams.**
 
 Updates for structured projects are entered into ClickUp, and when appropriate that project will auto-post to a Slack channel.
 
 - Zoom    
-Zoom is the video conferencing tool we use both internally and with our customers. Make sure to have it set up on your computer prior to client calls.
+Video conferencing for internal & with customers. Make sure to have it set up on your computer prior to client calls. For team meetings please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20)
 
 - G Suite   
 We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive. 
@@ -132,22 +140,33 @@ Enzyme provides
 - medical, dental and vision insurance -- 100% premium paid for employee and 50% premium pad for dependents
 - life insurance
 - 401k (contributions made every pay period)
-- paid time off  
+- mental & physical health days (unlimited)
+- 2 week vacation (minimum)
 
 #### Perks
-- standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
-- team offsite
-- catered lunches, snacks & beverages
+- Enzyme IRL offsite location & non-work activities
 - flexible work hours, locations
-- commuter benefits
 - personal gear stipend (~$200)
+- Employees commuting to Enzyme offices
+    - catered lunches, snacks & beverages
+    - standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
+    - commuter benefits
 
 #### Standard Holidays
-- New Years Day
-- Memorial Day
-- US Labor Day
-- US July 4th
-- Thanksgiving
-- Christmas
+* New Year's Day (January 1).
+* President's day (aka: Washington's Birthday) (Third Monday in February).
+* Memorial Day (Last Monday in May).
+* Independence Day (July 4).
+* Labor Day (First Monday in September).
+* Veterans Day (November 11).
+* Thanksgiving Day (Fourth Thursday in November).
+    * Day After Thanksgiving
+* Christmas Day (December 25).
 
-
+##### On-call Period
+* The roughly two weeks spanning Christmas & New years
+    * 2019: Mon Dec 23rd onward, returning Thur Jan 2nd
+    * 2020: Mon Dec 21st onward, returning Mon Jan 4th.
+* During this time employees are encouraged to be home or at a rejuvenating destination.
+    * Employees will maintain access Slack, laptop & WIFI in case of emergency.
+    * Key resources in Site Reliability Engineering (SRE) & Customer Support may work full hours.

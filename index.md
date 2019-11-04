@@ -146,7 +146,7 @@ Enzyme provides
 #### Perks
 - Enzyme IRL offsite location & non-work activities
 - flexible work hours, locations
-- personal gear stipend (~$200)
+- personal gear stipend
 - Employees commuting to Enzyme offices
     - catered lunches, snacks & beverages
     - standing Desks - In-office we have adjustable desks so suit your ergonomic needs.

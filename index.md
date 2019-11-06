@@ -50,8 +50,8 @@ For the 100% remote team members, they can work from anywhere during business ho
 #### Performance Mangement (aka Objectives & Keys Results, OKRs)
 * Each quarter the team will develop OKRs and lock them in the [Goals Feature of ClickUp](https://app.clickup.com/1246867/goals/)
     * [HOWTO guide](https://www.youtube.com/watch?v=XplWt1eKPwE)
-* Updates will be made continously, asynchronously. Work streams can be associated to goals when appropriate.
-* Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged.
+* Updates will be made continously, asynchronously. Work streams can be associated to goals when appropriate
+* Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged
 
 ##### Individual Performance Review
    As per best practices and quality system procedures Enzyme continuously assess competence.
@@ -148,24 +148,24 @@ Enzyme provides
 - Personal gear stipend
 - Employees commuting to Enzyme offices
     - Catered lunches, snacks & beverages
-    - Standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
+    - Standing Desks - In-office we have adjustable desks so suit your ergonomic needs
     - Commuter benefits
 
 #### Standard Holidays
-* New Year's Day (January 1).
-* President's day (aka: Washington's Birthday) (Third Monday in February).
-* Memorial Day (Last Monday in May).
-* Independence Day (July 4).
-* Labor Day (First Monday in September).
-* Veterans Day (November 11).
-* Thanksgiving Day (Fourth Thursday in November).
+* New Year's Day (January 1)
+* President's day (aka: Washington's Birthday) (Third Monday in February)
+* Memorial Day (Last Monday in May)
+* Independence Day (July 4)
+* Labor Day (First Monday in September)
+* Veterans Day (November 11)
+* Thanksgiving Day (Fourth Thursday in November)
     * Day After Thanksgiving
-* Christmas Day (December 25).
+* Christmas Day (December 25)
 
 ##### On-call Period
 * The roughly two weeks spanning Christmas & New years
     * 2019: Mon Dec 23rd onward, returning Thur Jan 2nd
-    * 2020: Mon Dec 21st onward, returning Mon Jan 4th.
-* During this time employees are encouraged to be home or at a rejuvenating destination.
-    * Employees will maintain access Slack, laptop & WIFI in case of emergency.
-    * Key resources in Site Reliability Engineering (SRE) & Customer Support may work full hours.
+    * 2020: Mon Dec 21st onward, returning Mon Jan 4th
+* During this time employees are encouraged to be home or at a rejuvenating destination
+    * Employees will maintain access Slack, laptop & WIFI in case of emergency
+    * Key resources in Site Reliability Engineering (SRE) & Customer Support may work full hours

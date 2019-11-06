@@ -78,7 +78,7 @@ For the 100% remote team members, they can work from anywhere during business ho
 
 Our employees work all sorts of different hours and from many global locations. This makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work we do at Enzyme shouldn’t require us to be in constant communication throughout the entire day.
 
-We believe HIGHLY in the lesson of this cartoon: https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/
+We believe HIGHLY in the lesson of [this cartoon](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/) by [@detly](https://github.com/detly)
 
 It’s far better for everyone’s concentration and sanity if we collaborate as though most things will get an answer eventually, but not necessarily right this second. The preferred first choice of action should be to post a message, a to-do, or a document about what we need explained or need to know. Then others can respond when they’re available.
 

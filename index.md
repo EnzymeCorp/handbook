@@ -2,7 +2,7 @@
 Enzyme was started to help companies get cutting edge technology to patients faster. We want to be open and transparent with our customers, and we help educate them so they can deliver the best product.
 
 #### Why Enzyme?
-After spending a decade each in the medical device industry, both Jared and Jacob grew exhausted with the status quo with respect to day-to-day QMS activities and submission generation. 
+After spending a decade each in the medical device industry, both Jared and Jacob grew exhausted with the status quo with respect to day-to-day Quality Management System (QMS) activities and submission generation. 
 
 Jacob used, on average, 5 different QMS software tools for day-to-day tasks (e.g. different tools for various elements of the QMS), and many users either 1) had partial/no access to all systems or 2) had significant difficulty using several systems due to infrequent access. This resulted in delays to getting work done on the order of multiple weeks/year for the broader team all supporting one project. Multiply this by thousands of projects in a large organization, and this translates into a significant resource drain and project delays.
 
@@ -23,7 +23,6 @@ Our goal is to reduce the time and cost life science companies spend during the 
 - Founders: Jacob Graham, Jared Seehafer
 - Principal Investors: Y Combinator, Rock Health, Refactor Capital, DC VC (Data Collective), SOMA Capital
 - Current Offerings: Enzyme QMS, Quality as a Service, Regulatory Services
-
 
 #### What We Offer To Customers
 Enzyme offers a Quality Management System (QMS) as well as services to customers. 
@@ -74,7 +73,7 @@ For the 100% remote team members, they can work from anywhere during business ho
 ##### Focused Work and Asynchronous Communication
 - We support being in “in the zone” ([deep focused work](https://www.youtube.com/watch?v=ZD7dXfdDPfg))
 - We capture and track work in organized tasks
-- We communicate openly in shared digital forums (slack)
+- We communicate openly in shared digital forums (Slack)
 
 Our employees work all sorts of different hours and from many global locations. This makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work we do at Enzyme shouldn’t require us to be in constant communication throughout the entire day.
 
@@ -89,10 +88,10 @@ Teams that collaborate heavily should plan for more overlap. Async should bias f
 * Communication Norms    
 We use Slack as our main tool for communication. During business hours, all employees should be available via Slack. 
 
-* AFK (away from keyboard)    
+* AFK (Away From Keyboard)    
 Life happens, just notify your team on Slack that you won’t be available and for approximately how long.
 
-#### Enzyme IRL
+#### Enzyme IRL (In Real Life)
 
 Once in the summer and once in winter we all gather to build relationships and share key updates. 
 
@@ -110,12 +109,12 @@ Github hosts our repository and our code. We have daily calls where we review th
 - Slack    
 Used most commontly within the team and some of our customers. In support of Remote-First, async culture, please be mindful to use appropriately scoped channels.
 
-**Even conversations amongst two-people, in the office, might take place over Slack to record it for posterity and broadcast to remote teams.**
+**Even conversations amongst two people in the office might take place over Slack, as to record it for posterity and broadcast to remote teams.**
 
 Updates for structured projects are entered into ClickUp, and when appropriate that project will auto-post to a Slack channel.
 
 - Zoom    
-Video conferencing for internal & with customers. Make sure to have it set up on your computer prior to client calls. For team meetings please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20)
+Video conferencing for internal & with customers. Make sure to have it set up on your computer prior to client calls. For team meetings please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20).
 
 - G Suite   
 We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive. 
@@ -127,7 +126,7 @@ We use Office products such as Word and PowerPoint for certain internal purposes
 Figma is the design tool we use to create mocks for our product.
 
 - Webflow     
-We use Webflow as content management system (CMS)
+We use Webflow as content management system (CMS).
 
 - Intercom    
 We use Intercom to manage customer leads on our website and handle questions in-app. Intercom also hosts our support center. 
@@ -135,22 +134,22 @@ We use Intercom to manage customer leads on our website and handle questions in-
 
 #### Compensation & Benefits 
 Enzyme provides 
-- competitive base compensation (distributed on the 15th & last business day of the month)
-- equity compensation
-- medical, dental and vision insurance -- 100% premium paid for employee and 50% premium pad for dependents
-- life insurance
+- Competitive base compensation (distributed on the 15th & last business day of the month)
+- Equity compensation
+- Medical, dental and vision insurance -- 100% premium paid for employee and 50% premium pad for dependents
+- Life insurance
 - 401k (contributions made every pay period)
-- mental & physical health days (unlimited)
+- Mental & physical health days (unlimited)
 - 2 week vacation (minimum)
 
 #### Perks
 - Enzyme IRL offsite location & non-work activities
-- flexible work hours, locations
-- personal gear stipend
+- Flexible work hours, locations
+- Personal gear stipend
 - Employees commuting to Enzyme offices
-    - catered lunches, snacks & beverages
-    - standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
-    - commuter benefits
+    - Catered lunches, snacks & beverages
+    - Standing Desks - In-office we have adjustable desks so suit your ergonomic needs.
+    - Commuter benefits
 
 #### Standard Holidays
 * New Year's Day (January 1).

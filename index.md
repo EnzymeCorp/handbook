@@ -54,7 +54,7 @@ For the 100% remote team members, they can work from anywhere during business ho
 * Updates will be made continously, asynchronously. Work streams can be associated to goals when appropriate.
 * Occassionally during an all-hands progress to plan will be discussed, blockers identified and triaged.
 
-##### Individaul Performance Review
+##### Individual Performance Review
    As per best practices and quality system procedures Enzyme continuously assess competence.
    This is the suggested template for weekly performance review in 1:1:
    

@@ -124,11 +124,12 @@ Used most commonly for daily communication within the team and some of our custo
 
  Updates for structured projects are entered into Asana, and when appropriate that project will auto-post to a Slack channel.
 
+ - Webflow     
+We use Webflow as a design and mock tool for our marketing and content sites.
+
  - Zoom    
 Video/audio conferencing for internal & external calls. For team meetings, please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20).
 
- - Webflow     
-We use Webflow as a design and mock tool for our marketing and content sites.
 
 
 #### Compensation & Benefits 

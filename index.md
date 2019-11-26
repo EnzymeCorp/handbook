@@ -95,40 +95,31 @@ This is an important complement to our remote-first, distributed structure.
 #### Tools we Use
 To successfully build our product, there are several tools we use on a daily basis.
 
- - Asana    
-Goals & tasks are tracked in Asana to log and track projects
+**Everyone**
+ - Asana - Goals & tasks are tracked in Asana to log and track projects
 
- - Figma       
-Figma is the design tool we use to create mocks for our product.
+- Zoom - Video/audio conferencing for internal & external calls. For team meetings, please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20).
 
- - Front 
-We use Front as our email client, allowing us to easily collaborate on responding to shared email inboxes such as support@ and sales@enzyme.com
+- Slack - Used most commonly for daily communication within the team and some of our customers. In support of Remote-First, async culture, please be mindful to use appropriately scoped channels. Even conversations amongst people in the office might take place over Slack, as to record it for posterity or make available to remote teams.
 
- - G Suite   
-We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive. 
+ - G Suite - We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive.
 
- - Github    
-Github hosts our repository and our code. We have routine calls where we groom, review, and plan sprint tasks from the Github board. 
+ - Microsoft Office Suite - we use Word and PowerPoint for certain internal purposes and with certain customers.
 
- - Hubspot
-Customer Relationship Management software
+**Product Development**
 
- - Intercom    
-We use Intercom to manage customer leads on our website and handle questions in-app. Intercom also hosts our support center. 
+ - Figma - a 2D design tool we use to create user interface mocks for our product.
 
- - Microsoft Office Suite    
-We use Office products such as Word and PowerPoint for certain internal purposes and with certain customers.
+ - Github - We have routine calls where we groom, review, and plan sprint tasks from the Github board. 
 
- - Slack    
-Used most commonly for daily communication within the team and some of our customers. In support of Remote-First, async culture, please be mindful to use appropriately scoped channels.Even conversations amongst people in the office might take place over Slack, as to record it for posterity or make available to remote teams.
+**Customer Operations & Marketing**
+ - Hubspot - Customer Relationship Management software & marketing automation
 
- Updates for structured projects are entered into Asana, and when appropriate that project will auto-post to a Slack channel.
+ - Front - auxillary email client, allowing us to easily collaborate on responding to shared email inboxes such as support@ and sales@enzyme.com
 
- - Webflow     
-We use Webflow as a design and mock tool for our marketing and content sites.
+ - Intercom - chatt tool used to manage leads on our website and handle questions in-app. Intercom also hosts our support center. 
 
- - Zoom    
-Video/audio conferencing for internal & external calls. For team meetings, please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20).
+- Webflow - a web content management systems we use primarily for our marketing site, education portal & occassionally to prototype product user interfaces.
 
 
 

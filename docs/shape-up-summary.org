@@ -1,0 +1,226 @@
+* Key Concepts to Shape Up
+- Shaped versus unshaped work
+- Setting appetites instead of estimates
+- Designing at the right level of abstraction
+- Concepting with breadboards and fat marker sketches
+- Making bets with a capped downside (the circuit breaker) and honoring them with uninterrupted time
+- Choosing the right cycle length (six weeks)
+- A cool-down period between cycles
+- Breaking projects apart into scopes
+- Downhill versus uphill work and communicating about unknowns
+- Scope hammering to separate must-haves from nice-to-haves
+
+* Uninterrupted time
+#+BEGIN_QUOTE
+It’s not really a bet if we say we’re dedicating six weeks but then allow a team to get pulled away to work on something else.
+
+When you make a bet, you honor it. We do not allow the team to be interrupted or pulled away to do other things. If people interrupt the team with requests, that breaks our commitment. We’d no longer be giving the team a whole six weeks to do work that was shaped for six weeks of time.
+
+When people ask for “just a few hours” or “just one day,” don’t be fooled. Momentum and progress are second-order things, like growth or acceleration. You can’t describe them with one point. You need an uninterrupted curve of points. When you pull someone away for one day to fix a bug or help a different team, you don’t just lose a day. You lose the momentum they built up and the time it will take to gain it back. Losing the wrong hour can kill a day. Losing a day can kill a week.
+
+What if something comes up during that six weeks? We still don’t interrupt the team and break the commitment. The maximum time we’d have to wait is six weeks before being able to act on the new problem or idea. If the cycle passes and that thing is still the most important thing to do, we can bet on it for that cycle. This is why it’s so important to only bet one cycle ahead. This keeps our options open to respond to these new issues. And of course, if it’s a real crisis, we can always hit the brakes. But true crises are very rare.
+#+END_QUOTE
+
+* Cool-down time, 2 weeks to breathe
+#+BEGIN_QUOTE
+If we were to run six-week cycles back to back, there wouldn’t be any time to breathe and think about what’s next. The end of a cycle is the worst time to meet and plan because everybody is too busy finishing projects and making last-minute decisions in order to ship on time.
+
+Therefore, after each six-week cycle, we schedule two weeks for "cool-down". This is a period with no scheduled work where we can breathe, meet as needed, and consider what to do next.
+
+During cool-down, programmers and designers on project teams are free to work on whatever they want. After working hard to ship their six-week projects, they enjoy having time that’s under their control. They use it to fix bugs, explore new ideas, or try out new technical possibilities.
+#+END_QUOTE
+* Done means deployed
+
+#+BEGIN_QUOTE
+At the end of the cycle, the team will deploy their work. In the case of a Small Batch team with a few small projects for the cycle, they’ll deploy each one as they see fit as long as it happens before the end of the cycle.
+
+This constraint keeps us true to our bets and respects the circuit breaker. The project needs to be done within the time we budgeted; otherwise, our appetite and budget don’t mean anything.
+
+That also means any testing and QA needs to happen within the cycle. The team will accommodate that by scoping off the most essential aspects of the project, finishing them early, and coordinating with QA. (More on that later.)
+
+For most projects we aren’t strict about the timing of help documentation, marketing updates, or announcements to customers and don’t expect those to happen within the cycle. Those are thin-tailed from a risk perspective (they never take 5x as long as we think they will) and are mostly handled by other teams. We’ll often take care of those updates and publish an announcement about the new feature during cool-down after the cycle.
+#+END_QUOTE
+
+* Getting oriented
+
+#+BEGIN_QUOTE
+Work in the first few days doesn’t look like “work.” No one is checking off tasks. Nothing is getting deployed. There aren’t any deliverables to look at. Often there isn’t even much communication between the team in the first few days. There can be an odd kind of radio silence.
+
+Why? Because each person has their head down trying to figure out how the existing system works and which starting point is best. Everyone is busy learning the lay of the land and getting oriented.
+
+It’s important for managers to respect this phase. Teams can’t just dive into a code base and start building new functionality immediately. They have to acquaint themselves with the relevant code, think through the pitch, and go down some short dead ends to find a starting point. Interfering or asking them for status too early hurts the project. It takes away time that the team needs to find the best approach. The exploration needs to happen anyway. Asking for visible progress will only push it underground. It’s better to empower the team to explictly say “I’m still figuring out how to start” so they don’t have to hide or disguise this legitimate work.
+
+Generally speaking, if the silence doesn’t start to break after three days, that’s a reasonable time to step in and see what’s going on.
+#+END_QUOTE
+
+* Imagined vs discovered tasks
+
+#+BEGIN_QUOTE
+Since the team was given the project and not tasks, they need to come up with the tasks themselves. Here we note an important difference between tasks we think we need to do at the start of a project and the tasks we discover we need to do in the course of doing real work.
+
+The team naturally starts off with some imagined tasks—the ones they assume they’re going to have to do just by thinking about the problem. Then, as they get their hands dirty, they discover all kinds of other things that we didn’t know in advance. These unexpected details make up the true bulk of the project and sometimes present the hardest challenges.
+
+Teams discover tasks by doing real work. For example, the designer adds a new button on the desktop interface but then notices there’s no obvious place for it on the mobile webview version. They record a new task: figure out how to reveal the button on mobile. Or the first pass of the design has good visual hierarchy, but then the designer realizes there needs to be more explanatory copy in a place that disrupts the layout. Two new tasks: Change the layout to accommodate explanatory copy; write the explanatory copy.
+
+Often a task will appear in the process of doing something unrelated. Suppose a programmer is working on a database migration. While looking at the model to understand the associations, she might run into a method that needs to be updated for a different part of the project later. She’s going to want to note a task to update that method later.
+
+*The way to really figure out what needs to be done is to start doing real work.* That doesn’t mean the teams start by building just anything. They need to pick something meaningful to build first. Something that is central to the project while still small enough to be done end-to-end—with working UI and working code—in a few days.
+#+END_QUOTE
+
+* Avoid starting with a "master plan"
+
+#+BEGIN_QUOTE
+It’s important at this early phase that they don’t create a master plan of parts that should come together in the 11th hour. If the team completes a lot of tasks but there’s no “one thing” to click on and try out, it’s hard to feel progress. A team can do a lot of work but feel insecure because they don’t have anything real to show for it yet. Lots of things are done but nothing is really done.
+
+Instead they should aim to make something tangible and demoable early—in the first week or so. That requires integrating vertically on one small piece of the project instead of chipping away at the horizontal layers.
+#+END_QUOTE
+
+See a case study on striking the right balance and finding an integration to start with [[https://basecamp.com/shapeup/3.2-chapter-10#case-study-clients-in-projects][here]].
+
+* Affordances before pixel-perfect screens
+
+#+BEGIN_QUOTE
+Programmers don’t need a pixel-perfect design to start implementing. All they need are endpoints: input elements, buttons, places where stored data should appear. These affordances are the core of a user interface design.
+
+Questions about font, color, spacing, and layout can be resolved after the raw affordances are in place and hooked up in code. Copywriting, basic affordances, and some wiring are all we need to try a live working version in the browser or on the device. Then we can answer the fundamental questions early: Does it make sense? Is it understandable? Does it do what we want?
+
+That means the first interface a designer gives to a programmer can look very basic, like the example below. It’s more like a breadboard than a visual design or a polished mock-up.
+#+END_QUOTE
+
+There are screenshots and more examples [[https://basecamp.com/shapeup/3.2-chapter-10#affordances-before-pixel-perfect-screens][here]].
+
+* Start in the middle
+
+#+BEGIN_QUOTE
+[...]the team didn’t build log in first. They didn’t build a way to create an interview project and an interview subject before solving the problem of adding interview data. They jumped straight into the middle where the interesting problem was and stubbed everything else to get there.
+
+To expand on this, here are three criteria to think about when choosing what to build first:
+
+First, it should be *core*. The visibility toggle was core to the Clients in Projects concept. Without it, the other work wouldn’t mean anything. Contrast that with a more peripheral aspect of the project, like the ability to rename a client. Both were “required,” but one was more central and important to prove out early in the cycle. In the interview app, recording interview data was more core—more in the middle—than setting up a new research project.
+
+Second, it should be *small*. If the first piece of work isn’t small enough, there isn’t much benefit to carving it off from the rest. The point is to finish something meaningful in a few days and build momentum—to have something real to click on that shows the team is on the right track.
+
+Third, it should be *novel*. If two parts of the project are both core and small, prefer the thing that you’ve never done before. In the Clients in Projects feature, the UI for adding clients was mostly the same as the UI for adding regular users. Starting on that would have moved the project forward, but it wouldn’t have taught the team anything. It wouldn’t have eliminated uncertainty. Starting with the visibility toggle boosted everyone’s confidence because it proved that a new idea was going to work.
+#+END_QUOTE
+
+* Breaking down into scopes
+** Organize by structure, not by person
+Do not separate work by person or role. This leads to tasks not adding up to a finished part of the project early enough.
+** Start with single scope
+Start with a single scope and add tasks to that as you start to do real work. This phase will not last long because as you get to the real work of the project, you will learn and add more tasks. Relationships between tasks will naturally form and you can start to divide them into their own scopes.
+** Scopes: Independent & Short Turnaround
+Scopes should be de-coupled from each other and be completed in a short period of time - a few days or less.
+They are bigger than tasks, but smaller than the overall project.
+** Kickoff with an "Unscoped" List
+Read the case study [[https://basecamp.com/shapeup/3.3-chapter-11#case-study-message-drafts][here]].
+** Scope Mapping != Planning
+#+BEGIN_QUOTE
+Scope mapping isn’t planning. You need to walk the territory before you can draw the map. Scopes properly drawn are not arbitrary groupings or categories for the sake of tidiness. They reflect the real ground truth of what can be done independently—the underlying interdependencies and relationships in the problem.
+
+Scopes arise from interdependencies. The way parts depend on each other determines when you can say a given piece of the work is “done.” You don’t know what the work and interdependencies actually are in advance. We talked earlier about imagined versus discovered tasks. The same principle applies to scopes. The scopes need to be discovered by doing the real work and seeing how things connect and don’t connect.
+
+That’s why at the start of a project, we don’t expect to see accurate scopes. We’re more likely to see them at the end of week one or start of week two, after the team has had a chance to do some real work and find the natural dividing lines in the anatomy of the problem.
+
+It’s also normal to see some shuffling and instability in the scopes at first. The lines get redrawn or scopes renamed as the team feels out where the boundaries really are, like in the example above. The team was focused on specific problems of saving and editing drafts, so it was easiest to identify that scope early. It wasn’t until they got into the weeds that they noticed there were tasks specifically about sending the draft and made that a separate scope.
+#+END_QUOTE
+** Signs of correct vs. incorrect scopes
+
+#+BEGIN_QUOTE
+Three signs indicate when the scopes are right:
+
+1. You feel like you can see the whole project and nothing important that worries you is hidden down in the details.
+2. Conversations about the project become more flowing because the scopes give you the right language.
+3. When new tasks come up, you know where to put them. The scopes act like buckets that you can easily lob new tasks into.
+   
+On the other hand, these three signs indicate the scopes should be redrawn:
+
+1. It’s hard to say how “done” a scope is. This often happens when the tasks inside the scope are unrelated. If the problems inside the scope are unrelated, finishing one doesn’t get you closer to finishing the other. It’s good in this case to look for something you can factor out, like in the Drafts example.
+2. The name isn’t unique to the project, like “front-end” or “bugs.” We call these “grab bags” and “junk drawers.” This suggests you aren’t integrating enough, so you’ll never get to mark a scope “done” independent of the rest. For example, with bugs, it’s better to file them under a specific scope so you can know whether, for example, “Send” is done or if you need to fix a couple bugs first before putting it out of mind.
+3. It’s too big to finish soon. If a scope gets too big, with too many tasks, it becomes like its own project with all the faults of a long master to-do list. Better to break it up into pieces that can be solved in less time, so there are victories along the way and boundaries between the problems to solve.
+#+END_QUOTE
+** The "Chowder" Scope
+Allow yourself to create a "Chowder" list (only one) that contains things that don't fit into a scope. Keep a skeptical eye on this list, if it gets longer than 3-5 items, there is something fishy going on and you may need to redraw a scope somewhere.
+
+** Mark "nice-to-haves" with ~
+#+BEGIN_QUOTE
+New tasks constantly come up as you get deeper into a problem. You’ll find code that could be cleaned up, edge cases to address, and improvements to existing functionality. A good way to deal with all those improvements is to record them as tasks on the scope but mark them with a ~ in front. This allows everyone on the team to constantly sort out the must-haves from the nice-to-haves.
+
+In a world with no deadlines, we could improve everything forever. But in a fixed time box, we need a machete in our hands to cut down the constantly growing scope. The ~ at the start of an item, or even a whole scope, is our best tool for that.
+#+END_QUOTE
+* Cutting scope
+** It isn't lowering quality
+#+BEGIN_QUOTE
+Picking and choosing which things to execute and how far to execute on them doesn’t leave holes in the product. Making choices makes the product better. It makes the product better at some things instead of others. Being picky about scope differentiates the product. Differentiating what is core from what is peripheral moves us in competitive space, making us more alike or more different than other products that made different choices.
+
+Variable scope is not about sacrificing quality. We are extremely picky about the quality of our code, our visual design, the copy in our interfaces, and the performance of our interactions. The trick is asking ourselves which things actually matter, which things move the needle, and which things make a difference for the core use cases we’re trying to solve.
+#+END_QUOTE
+** Hammering the scope, because cutting isn't strong enough
+#+BEGIN_QUOTE
+People often talk about “cutting” scope. We use an even stronger word—hammering—to reflect the power and force it takes to repeatedly bang the scope so it fits in the time box.
+
+As we come up with things to fix, add, improve, or redesign during a project, we ask ourselves:
+
+- Is this a “must-have” for the new feature?
+- Could we ship without this?
+- What happens if we don’t do this?
+- Is this a new problem or a pre-existing one that customers already live with?
+- How likely is this case or condition to occur?
+- When this case occurs, which customers see it? Is it core—used by everyone—or more of an edge case?
+- What’s the actual impact of this case or condition in the event it does happen?
+- When something doesn’t work well for a particular use case, how aligned is that use case with our intended audience?
+#+END_QUOTE
+* The Hill - Reporting Status
+There are several visuals that go with this, it's best to go [[https://basecamp.com/shapeup/3.4-chapter-12#work-is-like-a-hill][read it]].
+
+** Status without asking
+Again worth [[https://basecamp.com/shapeup/3.4-chapter-12#status-without-asking][reading this directly]] from the book.
+
+** Push unknowns up the hill first, then stop.
+#+BEGIN_QUOTE
+Some scopes are riskier than others. Imagine two scopes: One involves geocoding data—something the team has never done before. The other is designing and implementing an email notification. Both have unknowns. Both start at the bottom of the hill. This is where the team asks themselves: If we were out of time at the end of the cycle, which of these could we easily whip together—despite the unknowns—and which might prove to be harder than we think?
+
+That motivates the team to push the scariest work uphill first. Once they get uphill, they’ll leave it there and look for anything critically important before finishing the downhill work to completion. It’s better to get a few critical scopes over the top early in the project and leave the screw-tightening for later.
+#+END_QUOTE
+
+
+* QA is a level-up, not a crutch
+#+BEGIN_QUOTE
+QA can limit their attention to edge cases because the designers and programmers take responsibility for the basic quality of their work. Programmers write their own tests, and the team works together to ensure the project does what it should according to what was shaped. This follows from giving the team responsibility for the whole project instead of assigning them individual tasks (see [[https://basecamp.com/shapeup/3.1-chapter-09][Hand Over Responsibility, not Tasks]]).
+
+[...]
+
+Therefore we think of QA as a level-up, not a gate or a check-point that all work must go through. We’re much better off with QA than without it. But we don’t depend on QA to ship quality features that work as they should.
+
+QA generates discovered tasks that are all nice-to-haves by default. The designer-programmer team triages them and, depending on severity and available time, elevates some of them to must-haves. The most rigorous way to do this is to collect incoming QA issues on a separate to-do list. Then, if the team decides an issue is a must-have, they drag it to the list for the relevant scope it affects. This helps the team see that the scope isn’t done until the issue is addressed.
+
+#+END_QUOTE
+* Code Review is added value rather than necessity
+#+BEGIN_QUOTE
+We treat code review the same way. The team can ship without waiting for a code review. There’s no formal check-point. But code review makes things better, so if there’s time and it makes sense, someone senior may look at the code and give feedback. It’s more about taking advantage of a teaching opportunity than creating a step in our process that must happen every time.
+#+END_QUOTE
+* Extending a Project
+#+BEGIN_QUOTE
+In very rare cases, we’ll extend a project that runs past its deadline by a couple weeks. How do we decide when to extend a project and when to let the "circuit breaker" do its thing?
+
+First, the outstanding tasks must be true "must-haves" that withstood every attempt to "scope hammer" them.
+
+Second, the outstanding work must be all "downhill". No unsolved problems; no open questions. Any "uphill" work at the end of the cycle points to an oversight in the shaping or a hole in the concept. Unknowns are too risky to bet on. If the work is uphill, it’s better to do something else in the next cycle and put the troubled project back in the shaping phase. If you find a viable way to patch the hole, then you can consider betting more time on it again in the future.
+
+Even if the conditions are met to consider extending the project, we still prefer to be disciplined and enforce the "appetite" for most projects. The two-week "cool-down" usually provides enough slack for a team with a few too many "must-haves" to ship before the next cycle starts. But this shouldn’t become a habit. Running into cool-down either points back to a problem in the shaping process or a performance problem with the team.
+#+END_QUOTE
+
+* After shipping, let the storm pass and shape feedback
+#+BEGIN_QUOTE
+Shipping can actually generate new work if you’re not careful. Feature releases beget feature requests. Customers say “Okay, that’s great, but what about that other thing we’ve been asking for?” Bugs pop up. Suggestions for improvements come in. Everyone is focused on the new thing and reacting to it.
+
+The feedback can be especially intense if the feature you shipped changes existing workflows. Even purely visual changes sometimes spur intense pushback. A small minority of customers might overreact and say things like “You ruined it! Change it back!”
+
+It’s important to stay cool and avoid knee-jerk reactions. Give it a few days and allow it to die down. Be firm and remember why you made the change in the first place and who the change is helping.
+
+[...]
+
+Here we come full circle. The raw ideas that just came in from customer feedback aren’t actionable yet. They need to be shaped. They are the raw inputs that we talked about in step one of the shaping process: Set Boundaries.
+
+If a request is truly important, you can make it your top priority on the shaping track of the next cycle. Bet on something else for the teams to build and use that time to properly shape the new idea. Then, when the six weeks are over, you can make the case at the betting table and schedule the shaped version of the project for the greatest chance of success.
+#+END_QUOTE
+

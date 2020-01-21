@@ -125,6 +125,7 @@ To successfully build our product, there are several tools we use on a daily bas
 
 #### Compensation & Benefits 
 Enzyme provides 
+- Tools of the trade (MacBook, Monitor, etc)
 - Competitive base compensation (distributed on the 15th & last business day of the month)
 - Equity compensation
 - Medical, dental and vision insurance -- 100% premium paid for employee and 50% premium paid for dependents

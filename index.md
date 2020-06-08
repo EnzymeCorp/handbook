@@ -147,7 +147,7 @@ Enzyme provides
 * New Year's Day (January 1)
 * President's day (aka: Washington's Birthday) (Third Monday in February)
 * Memorial Day (Last Monday in May)
-* Independence Day (July 4)
+* Independence Day (July 4) (Observed Friday July 3rd in 2020)
 * Labor Day (First Monday in September)
 * Veterans Day (November 11)
 * Thanksgiving Day (Fourth Thursday in November)

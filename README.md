@@ -2,7 +2,7 @@
 * This is the direct "code" in the open source repository https://github.com/EnzymeCorp/handbook/blob/master/index.md
 * This is the polished version published using the GitHub pages content management system: https://enzymecorp.github.io/handbook/
 
-The content is indetical.
+The content is identical.
 
 #### Using this Handbook
 This handbook provides an overview of our company, what drives us, and how we operate. After reading this handbook, reach out to your manager to clarify any questions you may have. We have done our best to give you a glimpse into Enzyme; let us know if you feel something is missing. 

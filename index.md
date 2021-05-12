@@ -44,7 +44,7 @@ Employees local to the SF Bay Area have the option to work from HQ. However, emp
 
 For the 100% remote team members, they can work from anywhere during business hours as long as they are available online for calls. 
 
-#### Performance Mangement (aka Objectives & Keys Results, OKRs)
+#### Performance Management (aka Objectives & Keys Results, OKRs)
 * Each quarter the team will develop and publish OKRs
 * Updates will be made as appropriate as the quarter ensues.
 * All-hands meetings that are typically bi-weekly include OKR progress updates, announcements, discussions of hot topics, and an open Q&A forum.
@@ -66,7 +66,7 @@ For the 100% remote team members, they can work from anywhere during business ho
 * Enzyme HQ (headquarters): 611 Gateway Blvd Ste 120, South San Francisco, CA 94080. 
 
 ##### Focused Work and Asynchronous Communication
-- We support being in “in the zone” ([deep focused work](https://www.youtube.com/watch?v=ZD7dXfdDPfg))
+- We support being “in the zone” ([deep focused work](https://www.youtube.com/watch?v=ZD7dXfdDPfg))
 - We capture and track work in organized tasks
 - We communicate openly in shared digital forums (Slack)
 
@@ -117,9 +117,9 @@ To successfully build our product, there are several tools we use on a daily bas
 
  - Front - auxillary email client, allowing us to easily collaborate on responding to shared email inboxes such as support@ and sales@enzyme.com
 
- - Intercom - chatt tool used to manage leads on our website and handle questions in-app. Intercom also hosts our support center. 
+ - Intercom - chat tool used to manage leads on our website and handle questions in-app. Intercom also hosts our support center. 
 
-- Webflow - a web content management systems we use primarily for our marketing site, education portal & occassionally to prototype product user interfaces.
+- Webflow - a web content management systems we use primarily for our marketing site, education portal & occasionally to prototype product user interfaces.
 
 
 

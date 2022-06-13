@@ -96,7 +96,11 @@ This is an important complement to our remote-first, distributed structure. Whil
 To successfully build our product, there are several tools we use on a daily basis.
 
 **Everyone**
- - Jira - Epics, enhancements, bugs & tasks are tracked in Jira to log and track product improvements and other projects. There are several active Boards at any given time. We have routine calls to groom, review and plant sprint tasks from the main QMSC Jira board, and sometimes other boards as well.
+ - 1Password - Password management tool for business and personal use. All employees receive a standard business account which also allows you to create a family share account for free (up to 5 personal account users). It is Enzyme policy that all employees must use 1Password for business-related logins; we also share some logins internally via several Vaults that you are given access to on an as-needed basis. Upon separation from Enzyme, it is an easy process to decouple the family share account from the corporate account and to take on the monthly fee for personal use only. Similarly, if you already have a 1Password personal account, it's easy to link it to the business account and subsequently receive the free benefit.
+ 
+ - Jira - Atlassian tool - Epics, enhancements, bugs & tasks are tracked in Jira to log and track product improvements and other projects. There are several active Boards at any given time. We have routine calls to groom, review and plant sprint tasks from the main QMSC Jira board, and sometimes other boards as well.
+
+- Confluence - Atlassian tool - Used for internal communication, unofficial documentation, release planning including release notes.
 
 - Zoom - Video/audio conferencing for internal & external calls. For team meetings, please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20).
 
@@ -105,6 +109,8 @@ To successfully build our product, there are several tools we use on a daily bas
  - G Suite - We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive.
 
  - Microsoft Office Suite - we use Word and PowerPoint for certain internal purposes and with certain customers. Our internal QMS procedures' native files are typically MS Office Suite filetypes.
+
+- Brex - Company business credit card services. Employees are issued an electronic credit card that you can access via the Brex website and when you download their app to your phone. Physical cards can be issued upon request.
 
 **Product Development**
 

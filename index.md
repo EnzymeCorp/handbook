@@ -146,15 +146,16 @@ Enzyme provides
 - Personal gear stipend (work with your manager for ordering details)
 
 #### Standard Holidays
-* New Year's Day (January 1)
-* President's day (aka: Washington's Birthday) (Third Monday in February)
+* New Year's Day (January 1, or nearest business day)
+* MLK Day (3rd Mon in Jan)
+* President's Day (aka: Washington's Birthday) (3rd Mon in Feb)
 * Memorial Day (Last Monday in May)
-* Independence Day (July 4)
-* Labor Day (First Monday in September)
-* Veterans Day (November 11)
+* Independence Day (July 4, or nearest business day)
+* Labor Day (1st Mon in September)
+* Veterans Day (November 11, or nearest business day)
 * Thanksgiving Day (Fourth Thursday in November)
     * Day After Thanksgiving
-* Christmas Day (December 25)
+* Christmas Day (December 25, or nearest business day)
 
 ##### On-call Period
 * The roughly two weeks spanning Christmas & New Years

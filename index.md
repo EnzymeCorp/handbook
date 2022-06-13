@@ -38,32 +38,32 @@ For strategic accounts, we offer Regulatory and/or Quality consulting services, 
 As part of our regulatory services, we can help companies prepare their pre-submissions and full submissions for the FDA or a Notified Body. 
 
 #### How We Operate
-Enzyme is a Remote First organization. Processes and tooling are set up to ensure a high level of transparency and accountability across the organization, regardless of whether an employee is on-site or remote. 
+Enzyme is a Remote First organization. Processes and tooling are set up to ensure a high level of transparency and accountability across the organization, regardless of whether an employee is on-site or remote. Since the Spring of 2020 when the Covid pandemic began, Enzyme ceased having a dedicated HQ work space in SF. We maintain a shared workspace in South San Francisco that can be used by local employees, but it is primarily maintained for business address purposes.
 
-Employees local to the SF Bay Area have the option to work from HQ. However, employees can work remotely from home, a coffee shop, or wherever they are most efficient, provided their work is getting done. 
+Remote team members can work from anywhere during normal business hours as long as they are available online for calls. 
 
-For the 100% remote team members, they can work from anywhere during business hours as long as they are available online for calls. 
-
-#### Performance Management (aka Objectives & Keys Results, OKRs)
-* Each quarter the team will develop and publish OKRs
-* Updates will be made as appropriate as the quarter ensues.
-* All-hands meetings that are typically bi-weekly include OKR progress updates, announcements, discussions of hot topics, and an open Q&A forum.
+#### Management
+* All-hands meetings are held monthly to discuss progress updates, announcements, discussions of hot topics, and an open Q&A forum.
+* Monthly Retro meetings are also held to collect feedback on the +s and -s the organization experienced over that time period.
+* Developer team meetings occur weekly.
+* Operations team meetings (all other staff outside the development team) also occur weekly.
+* Managers typically hold direct 1:1 meetings weekly or as appropriate.
 
 ##### Individual Performance Review
-   As per best practices and quality system procedures Enzyme continuously assesses competence. This is a suggested agenda for routine 1-on-1 meetings:
+   Possible agenda for routine 1-on-1 meetings:
    
 - Review context:
     - Personal context
     - Key business updates
- - Performance versus OKRs
+ - Performance versus OKRs (when applicable)
  - Feedback about organizational systems & processes (not shared in company retro meetings)
  - Performance feedback for management; start/stop/continue
  - Career planning; near-term & long-term
  
- This will be summarized in an annual review.
+ Annual Reviews take place in December/January.
 
 #### Our Office
-* Enzyme HQ (headquarters): 611 Gateway Blvd Ste 120, South San Francisco, CA 94080. 
+* Enzyme CA billing address and 'HQ': 611 Gateway Blvd Ste 120, South San Francisco, CA 94080. 
 
 ##### Focused Work and Asynchronous Communication
 - We support being “in the zone” ([deep focused work](https://www.youtube.com/watch?v=d66815uVerk))
@@ -88,15 +88,15 @@ Life happens, just notify your team on Slack and/or via the Enzyme Shared calend
 
 #### Enzyme IRL (In Real Life)
 
-Once in the summer and once in winter we all gather to build relationships and share key updates. 
+Once in the summer and once in winter we all gather to build relationships and share key updates. The Covid pandemic interrupted this practice, preventing IRLs in 2020 and 2021, but we are looking forward to resuming these in 2022.
 
-This is an important complement to our remote-first, distributed structure.
+This is an important complement to our remote-first, distributed structure. While attendance is not strictly mandatory, every effort is made to schedule these events to accommodate all employees' schedules and travel needs. IRLs typically last 3-5 days with at least one 'off-site' event day. Dinners are typically together, and we try to keep meeting days to a ~9am-3:30pm schedule to allow for some normal work activities and/or free time.
 
 #### Tools we Use
 To successfully build our product, there are several tools we use on a daily basis.
 
 **Everyone**
- - Asana - Goals & tasks are tracked in Asana to log and track projects
+ - Jira - Epics, enhancements, bugs & tasks are tracked in Jira to log and track product improvements and other projects. There are several active Boards at any given time. We have routine calls to groom, review and plant sprint tasks from the main QMSC Jira board, and sometimes other boards as well.
 
 - Zoom - Video/audio conferencing for internal & external calls. For team meetings, please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20).
 
@@ -104,22 +104,22 @@ To successfully build our product, there are several tools we use on a daily bas
 
  - G Suite - We use Gmail and Google Calendar, and much of our documentation is hosted on Google Drive.
 
- - Microsoft Office Suite - we use Word and PowerPoint for certain internal purposes and with certain customers.
+ - Microsoft Office Suite - we use Word and PowerPoint for certain internal purposes and with certain customers. Our internal QMS procedures' native files are typically MS Office Suite filetypes.
 
 **Product Development**
 
  - Figma - a 2D design tool we use to create user interface mocks for our product.
 
- - Github - We have routine calls where we groom, review, and plan sprint tasks from the Github board. 
+ - TBD - In 2022, we will be enbarking on a UI update across the app where we'll be utilizing (most likely) a full time designer who may introduce additional tooling.
 
 **Customer Operations & Marketing**
  - Hubspot - Customer Relationship Management software & marketing automation
 
+ - Intercom - chat tool used to manage leads on our website and handle questions in-app. Intercom also hosts our support center with hundreds of Support Articles and eCourses used during the Customer Onboarding process and routine reference by users.
+
  - Front - auxillary email client, allowing us to easily collaborate on responding to shared email inboxes such as support@ and sales@enzyme.com
 
- - Intercom - chat tool used to manage leads on our website and handle questions in-app. Intercom also hosts our support center. 
-
-- Webflow - a web content management systems we use primarily for our marketing site, education portal & occasionally to prototype product user interfaces.
+ - Webflow - a web content management systems we use primarily for our marketing site.
 
 
 
@@ -127,7 +127,7 @@ To successfully build our product, there are several tools we use on a daily bas
 Enzyme provides 
 - Tools of the trade (MacBook, Monitor, etc)
 - Competitive base compensation (distributed on the 15th & last business day of the month)
-- Equity compensation
+- Equity compensation (vesting share grants)
 - Medical, dental and vision insurance -- 100% premium paid for employee and 50% premium paid for dependents
 - Life insurance
 - 401k (contributions made every pay period)
@@ -137,17 +137,13 @@ Enzyme provides
 #### Perks
 - Enzyme IRL offsite location & non-work activities
 - Flexible work hours, locations
-- Personal gear stipend
-- Employees commuting to Enzyme offices
-    - Catered lunches, snacks & beverages
-    - Standing Desks - In-office we have adjustable desks so suit your ergonomic needs
-    - Commuter benefits
+- Personal gear stipend (work with your manager for ordering details)
 
 #### Standard Holidays
 * New Year's Day (January 1)
 * President's day (aka: Washington's Birthday) (Third Monday in February)
 * Memorial Day (Last Monday in May)
-* Independence Day (July 4) (Observed Friday July 3rd in 2020)
+* Independence Day (July 4)
 * Labor Day (First Monday in September)
 * Veterans Day (November 11)
 * Thanksgiving Day (Fourth Thursday in November)
@@ -156,8 +152,7 @@ Enzyme provides
 
 ##### On-call Period
 * The roughly two weeks spanning Christmas & New Years
-    * 2019: Mon Dec 23rd onward, returning Thur Jan 2nd
-    * 2020: Mon Dec 21st onward, returning Mon Jan 4th
+    * 2022: Mon Dec 19th onward, returning Tues Jan 3rd.
 * During this time employees are encouraged to be home or at a rejuvenating destination
     * Employees will maintain access via Slack, laptop & WiFi in case of work emergency
-    * Key resources in Engineering & Customer Support may work full hours as needed
+    * Key resources in Engineering & Customer Support may work full hours as needed (historically has not been rare)

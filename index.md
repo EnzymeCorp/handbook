@@ -162,4 +162,4 @@ Enzyme provides
     * 2022: Mon Dec 19th onward, returning Tues Jan 3rd.
 * During this time employees are encouraged to be home or at a rejuvenating destination
     * Employees will maintain access via Slack, laptop & WiFi in case of work emergency
-    * Key resources in Engineering & Customer Support may work full hours as needed (historically has not been rare)
+    * Key resources in Engineering & Customer Support may work full hours as needed (historically has been rare)

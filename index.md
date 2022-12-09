@@ -88,7 +88,7 @@ Life happens, just notify your team on Slack and/or via the Enzyme Shared calend
 
 #### Enzyme IRL (In Real Life)
 
-Once in the summer and once in winter we all gather to build relationships and share key updates. The Covid pandemic interrupted this practice, preventing IRLs in 2020 and 2021, but we are looking forward to resuming these in 2022.
+Once in the summer and once in winter we all gather to build relationships and share key updates. The Covid pandemic interrupted this practice, preventing IRLs in 2020 and 2021, but we have resumed them in 2022!
 
 This is an important complement to our remote-first, distributed structure. While attendance is not strictly mandatory, every effort is made to schedule these events to accommodate all employees' schedules and travel needs. IRLs typically last 3-5 days with at least one 'off-site' event day. Dinners are typically together, and we try to keep meeting days to a ~9am-3:30pm schedule to allow for some normal work activities and/or free time.
 
@@ -100,7 +100,7 @@ To successfully build our product, there are several tools we use on a daily bas
  
  - Jira - Atlassian tool - Epics, enhancements, bugs & tasks are tracked in Jira to log and track product improvements and other projects. There are several active Boards at any given time. We have routine calls to groom, review and plant sprint tasks from the main QMSC Jira board, and sometimes other boards as well.
 
-- Confluence - Atlassian tool - Used for internal communication, unofficial documentation, release planning including release notes.
+- Confluence - Atlassian tool - Used for internal communication, unofficial documentation, release planning (including Release Notes).
 
 - Zoom - Video/audio conferencing for internal & external calls. For team meetings, please plan to have your camera on as much as [possible](https://twitter.com/fredsters_s/status/1189940262203617280?s=20).
 
@@ -116,7 +116,7 @@ To successfully build our product, there are several tools we use on a daily bas
 
  - Figma - a 2D design tool we use to create user interface mocks for our product.
 
- - TBD - In 2022, we will be enbarking on a UI update across the app where we'll be utilizing (most likely) a full time designer who may introduce additional tooling.
+ - TBD - In 2023, we will be enbarking on a UI update across the app where we'll be utilizing (most likely) a full time designer who may introduce additional tooling.
 
 **Customer Operations & Marketing**
  - Hubspot - Customer Relationship Management software & marketing automation
@@ -162,4 +162,4 @@ Enzyme provides
     * 2022: Mon Dec 19th onward, returning Tues Jan 3rd.
 * During this time employees are encouraged to be home or at a rejuvenating destination
     * Employees will maintain access via Slack, laptop & WiFi in case of work emergency
-    * Key resources in Engineering & Customer Support may work full hours as needed (historically has not been rare)
+    * Key resources in Engineering & Customer Support may work full hours as needed (historically this has been rare)

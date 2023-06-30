@@ -159,7 +159,7 @@ Enzyme provides
 
 ##### On-call Period
 * The roughly two weeks spanning Christmas & New Years
-    * 2022: Mon Dec 19th onward, returning Tues Jan 3rd.
+    * 2023: Wed Dec 20th onward, returning Tues Jan 3rd.
 * During this time employees are encouraged to be home or at a rejuvenating destination
     * Employees will maintain access via Slack, laptop & WiFi in case of work emergency
     * Key resources in Engineering & Customer Support may work full hours as needed (historically this has been rare)
